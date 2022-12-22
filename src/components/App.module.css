@@ -1,0 +1,14 @@
+.container {
+  margin: 10vh auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  background: aliceblue;
+  padding: 40px;
+  border-radius: 20px;
+  border: 1px solid;
+  box-shadow: 2px 1px 3px;
+  text-align: center;
+}
